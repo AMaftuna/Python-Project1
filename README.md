@@ -1,4 +1,4 @@
-# Проект КТ 
+# Проект Python
 ### Клонирование репозитория с помощью ssh
 В терминале запускайте следующую команду
 > git clone git@github.com:AMaftuna/Python-Project1.git
