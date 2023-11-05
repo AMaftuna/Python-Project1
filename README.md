@@ -1,10 +1,11 @@
 # Проект КТ 
 ### Клонирование репозитория с помощью ssh
 В терминале запускайте следующую команду
-> git clone https://github.com/AMaftuna/Python-Project.git
+> git clone git@github.com:AMaftuna/Python-Project1.git
 
 можно заметить, что появилась папка Python-Project, наберите эти команды
-> cd Python-Project\
+> cd Python-Project1\
+> ./build.sh
 дальнейшие работы также делайте в том же терминале для каждого случая(ниже приведены примеры и скрины для них)
 
 ### Шифрование шифра Цезаря:
@@ -76,7 +77,7 @@
 
 
 ### Взлом шифра Виженера с помощью индексов совпадений:
-> PYTHONPATH=src python3 src/encryptor.py hack_vigenere --input-file examples/input.txt --output-file examples/output.txt] --model-file examples/model.txt \
+> PYTHONPATH=src python3 src/encryptor.py hack_vigenere --input-file examples/input.txt --output-file examples/output.txt --model-file examples/model.txt \
 > \
 > Рассшифровать текст
 
