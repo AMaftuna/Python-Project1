@@ -4,7 +4,7 @@
 > git clone git@github.com:AMaftuna/Python-Project1.git
 
 можно заметить, что появилась папка Python-Project, наберите эти команды
-> cd Python-Project1\
+> cd Python-Project1
 
 дальнейшие работы также делайте в том же терминале для каждого случая(ниже приведены примеры и скрины для них)
 
